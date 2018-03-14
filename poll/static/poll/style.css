@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+    background-repeat: repeat-x;
+}
+li a {
+    color: red;
+    text-align: center;
+}
+li a{
+background-color:blue;
+}
+h1{
+text-align: center;
+}
+h5{
+text-align:center;
+}
